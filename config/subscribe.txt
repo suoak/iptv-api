@@ -17,6 +17,9 @@ https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output
 https://gongdian.top/tv/iptv
 https://gongdian.top/tv/bingcha
 https://gongdian.top/tv/develop202
+https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E7%A6%8F%E5%BB%BAZTERR%E7%A7%BB%E5%8A%A8CDN.txt
+https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E7%A6%8F%E5%BB%BA%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.txt
+https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E7%A6%8F%E5%BB%BA%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
 
 
 
