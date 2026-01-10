@@ -20,7 +20,14 @@ https://gongdian.top/tv/develop202
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E7%A6%8F%E5%BB%BAZTERR%E7%A7%BB%E5%8A%A8CDN.txt
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E7%A6%8F%E5%BB%BA%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.txt
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E7%A6%8F%E5%BB%BA%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
-
+http://112.50.243.8/PLTV/88888888/224/3221226664/1.m3u8
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E7%A6%8F%E5%BB%BA%E7%94%B5%E4%BF%A1rtsp.m3u
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E7%A6%8F%E5%BB%BA%E7%94%B5%E4%BF%A1%E5%8D%95%E6%92%AD%E6%BA%90.m3u
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E7%A6%8F%E5%BB%BA%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.m3u
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E7%A6%8F%E5%BB%BA%E7%A7%BB%E5%8A%A82-202008.m3u
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E7%A6%8F%E5%BB%BA%E7%A7%BB%E5%8A%A8iptv.m3u
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E7%A6%8F%E5%BB%BA%E8%81%94%E9%80%9A%E5%8D%95%E6%92%AD%E6%BA%90.m3u
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E7%A6%8F%E5%BB%BA%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.m3u
 
 
 [WHITELIST]
