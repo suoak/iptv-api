@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/suoak/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-22 06:34:46
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-22 18:38:05
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -415,6 +415,10 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="CETV3.png" group-title="📺央视频道",CETV-3
 http://iptv.666230.xyz/iptv/jsyd.php/G_CETV-3
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="CETV3.png" group-title="📺央视频道",CETV-3
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="CETV3.png" group-title="📺央视频道",CETV-3
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="CETV4.png" group-title="📺央视频道",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="CETV4.png" group-title="📺央视频道",CETV-4
@@ -1117,6 +1121,10 @@ https://stream1.freetv.fun/fu-jian-zong-he-2.m3u8
 http://685123.xyz:4022/udp/239.61.5.162:1025
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="福建综合.png" group-title="☘️福建频道",福建综合
 http://685123.xyz:4022/udp/239.61.5.167:1025
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="福建综合.png" group-title="☘️福建频道",福建综合
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="福建综合.png" group-title="☘️福建频道",福建综合
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 #EXTINF:-1 tvg-name="福建公共" tvg-logo="福建公共.png" group-title="☘️福建频道",福建公共
 https://stream1.freetv.fun/fu-jian-gong-gong-4.ctv
 #EXTINF:-1 tvg-name="福建公共" tvg-logo="福建公共.png" group-title="☘️福建频道",福建公共
@@ -1157,6 +1165,10 @@ https://stream1.freetv.fun/fu-jian-dian-shi-ju-4.m3u8
 https://stream1.freetv.fun/fu-jian-dian-shi-ju-6.m3u8
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="福建电视剧.png" group-title="☘️福建频道",福建电视剧
 http://685123.xyz:4022/udp/239.61.4.5:1025
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="福建电视剧.png" group-title="☘️福建频道",福建电视剧
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="福建电视剧.png" group-title="☘️福建频道",福建电视剧
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="福建经济.png" group-title="☘️福建频道",福建经济
 https://stream1.freetv.fun/fu-jian-jing-ji-4.m3u8
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="福建经济.png" group-title="☘️福建频道",福建经济
@@ -1175,6 +1187,10 @@ https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/mai
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="福建文体.png" group-title="☘️福建频道",福建文体
 http://685123.xyz:4022/udp/239.61.5.44:1025
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="福建文体.png" group-title="☘️福建频道",福建文体
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="福建文体.png" group-title="☘️福建频道",福建文体
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="福建旅游.png" group-title="☘️福建频道",福建旅游
 https://stream1.freetv.fun/fu-jian-lu-you-6.m3u8
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="福建旅游.png" group-title="☘️福建频道",福建旅游
@@ -1197,6 +1213,10 @@ https://stream1.freetv.fun/fu-jian-shao-er-2.m3u8
 https://stream1.freetv.fun/fu-jian-shao-er-3.m3u8
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="福建少儿.png" group-title="☘️福建频道",福建少儿
 http://685123.xyz:4022/udp/239.61.4.9:1025
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="福建少儿.png" group-title="☘️福建频道",福建少儿
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="福建少儿.png" group-title="☘️福建频道",福建少儿
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="海峡卫视.png" group-title="☘️福建频道",海峡卫视
 http://r.jdshipin.com/WtYt3
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="海峡卫视.png" group-title="☘️福建频道",海峡卫视
