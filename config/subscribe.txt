@@ -30,6 +30,7 @@ https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/mas
 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E7%A6%8F%E5%BB%BA%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://kakaxi.indevs.in/ipv4.txt
 
 
 [WHITELIST]
