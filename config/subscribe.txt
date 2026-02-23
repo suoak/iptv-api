@@ -31,7 +31,9 @@ https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/mas
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 https://kakaxi.indevs.in/ipv4.txt
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
+https://develop202.github.io/migu_video/interface.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
