@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/suoak/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.212:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-02 19:24:12
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.212:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-03 16:28:54
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.212:5180/logo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -623,6 +623,8 @@ http://685123.xyz:4022/udp/239.61.4.6:1025
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 #EXTINF:-1 tvg-id="62" tvg-name="福建旅游" tvg-logo="http://10.1.0.212:5180/logo/福建旅游.png" group-title="☘️福建频道",福建旅游
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
+#EXTINF:-1 tvg-id="62" tvg-name="福建旅游" tvg-logo="http://10.1.0.212:5180/logo/福建旅游.png" group-title="☘️福建频道",福建旅游
+https://t.freetv.fun/live/fu-jian-lu-you.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="福建少儿" tvg-logo="http://10.1.0.212:5180/logo/福建少儿.png" group-title="☘️福建频道",福建少儿
 https://stream1.freetv.fun/fu-jian-shao-er-1.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="福建少儿" tvg-logo="http://10.1.0.212:5180/logo/福建少儿.png" group-title="☘️福建频道",福建少儿
@@ -641,6 +643,8 @@ http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisd
 http://685123.xyz:4022/udp/239.61.5.45:1025
 #EXTINF:-1 tvg-id="64" tvg-name="海峡卫视" tvg-logo="http://10.1.0.212:5180/logo/海峡卫视.png" group-title="☘️福建频道",海峡卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="64" tvg-name="海峡卫视" tvg-logo="http://10.1.0.212:5180/logo/海峡卫视.png" group-title="☘️福建频道",海峡卫视
+http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260303080208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=218.28.233.106&SecurityKey=20260303080208&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4ae140ade7c89bb618a33c249c495f90&sv=10004&ct=android
 #EXTINF:-1 tvg-id="65" tvg-name="福建教育" tvg-logo="http://10.1.0.212:5180/logo/福建教育.png" group-title="☘️福建频道",福建教育
 http://685123.xyz:4022/udp/239.61.5.60:1025
 #EXTINF:-1 tvg-id="66" tvg-name="福州新闻" tvg-logo="http://10.1.0.212:5180/logo/福州新闻.png" group-title="☘️福建频道",福州新闻
